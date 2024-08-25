@@ -1,0 +1,6 @@
+@CloudOrderApi_HostAddress = http://localhost:5101
+
+GET {{CloudOrderApi_HostAddress}}/cloudorder/
+Accept: application/json
+
+###
